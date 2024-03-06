@@ -65,7 +65,7 @@ function Header() {
                                         <a
                                             aria-label="navigation link"
                                             href={item.path}
-                                            className="flex py-2 text-black hover:text-cyan-400 dark:text-white dark:hover:text-cyan-400 lg:px-3"
+                                            className="flex py-2 text-black hover:text-blue-500 dark:text-white dark:hover:text-cyan-400 lg:px-3"
                                         >
                                             {item.title}
                                         </a>
