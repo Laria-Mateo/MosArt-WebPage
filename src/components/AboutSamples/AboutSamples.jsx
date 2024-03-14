@@ -5,7 +5,7 @@ function AboutSamples() {
 
     return (
         <section
-            id="samples"
+            id="dmv"
             className="mb-6 flex flex-col items-center justify-center md:mb-0 lg:mb-32 about"
         >
             <h2 className=" font-extrabold text-2xl text-black lg:text-4xl mt-6">DISEÑOS MAS VENDIDOS</h2>
@@ -17,18 +17,18 @@ function AboutSamples() {
                     <article
                         className="rounded-xl bg-white p-3 shadow-lg duration-100 hover:scale-105 hover:transform hover:shadow-xl"
                     >
-                        <a href="">
+                        <a href="https://wa.link/wnmgdd" target="_blank" rel="noopener noreferrer">
                             <div className="relative overflow-hidden rounded-xl">
                                 <img
-                                    src="https://via.placeholder.com/150"
+                                    src="https://i.postimg.cc/VNt1nM1r/6e09870e-752c-4282-a2ce-f89784f79179.jpg"
                                     alt=""
                                     className="w-full h-full object-cover object-center"
                                     loading="eager"
                                 />
                             </div>
                             <div className="mt-1 p-2">
-                                <h3 className="text-xl text-cyan-400 lg:text-2xl">Titulo</h3>
-                                <p className="text-black text-s">xd</p>
+                                <h3 className="text-xl text-cyan-400 lg:text-2xl">Venecia</h3>
+                                <p className="text-black text-s">Colores Personalizables</p>
                             </div>
                         </a>
                     </article>
@@ -37,18 +37,18 @@ function AboutSamples() {
                     <article
                         className="rounded-xl bg-white p-3 shadow-lg duration-100 hover:scale-105 hover:transform hover:shadow-xl"
                     >
-                        <a href="">
+                        <a href="https://wa.link/wnmgdd" target="_blank" rel="noopener noreferrer">
                             <div className="relative overflow-hidden rounded-xl">
                                 <img
-                                    src="https://via.placeholder.com/150"
+                                    src="https://i.postimg.cc/KzcqxS9G/285bd16e-f80a-49f9-9425-661425d2b1aa.jpg"
                                     alt=""
                                     className="w-full h-full object-cover object-center"
                                     loading="eager"
                                 />
                             </div>
                             <div className="mt-1 p-2">
-                                <h3 className="text-xl text-cyan-400 lg:text-2xl">Titulo</h3>
-                                <p className="text-black text-s">xd</p>
+                                <h3 className="text-xl text-cyan-400 lg:text-2xl">Cubos 3D</h3>
+                                <p className="text-black text-s">Colores Personalizables</p>
                             </div>
                         </a>
                     </article>
@@ -57,18 +57,18 @@ function AboutSamples() {
                     <article
                         className="rounded-xl bg-white p-3 shadow-lg duration-100 hover:scale-105 hover:transform hover:shadow-xl"
                     >
-                        <a href="">
+                        <a href="https://wa.link/wnmgdd" target="_blank" rel="noopener noreferrer">
                             <div className="relative overflow-hidden rounded-xl">
                                 <img
-                                    src="https://via.placeholder.com/150"
+                                    src="https://i.postimg.cc/rmtJ8V1L/bcd414d3-c781-4b07-8eea-859ea2f5825a.jpg"
                                     alt=""
                                     className="w-full h-full object-cover object-center"
                                     loading="eager"
                                 />
                             </div>
                             <div className="mt-1 p-2">
-                                <h3 className="text-xl text-cyan-400 lg:text-2xl">Titulo</h3>
-                                <p className="text-black text-s">xd</p>
+                                <h3 className="text-xl text-cyan-400 lg:text-2xl">Margarita</h3>
+                                <p className="text-black text-s">Colores Personalizables</p>
                             </div>
                         </a>
                     </article>
@@ -77,18 +77,18 @@ function AboutSamples() {
                     <article
                         className="rounded-xl bg-white p-3 shadow-lg duration-100 hover:scale-105 hover:transform hover:shadow-xl"
                     >
-                        <a href="">
+                        <a href="https://wa.link/wnmgdd" target="_blank" rel="noopener noreferrer">
                             <div className="relative overflow-hidden rounded-xl">
                                 <img
-                                    src="https://via.placeholder.com/450"
+                                    src="https://i.postimg.cc/gk7H6Prt/e950a842-f848-4159-aed3-f887c2319a0f.jpg"
                                     alt=""
                                     className="w-full h-full object-cover object-center"
                                     loading="eager"
                                 />
                             </div>
                             <div className="mt-1 p-2">
-                                <h3 className="text-xl text-cyan-400 lg:text-2xl">Titulo</h3>
-                                <p className="text-black text-s">xd</p>
+                                <h3 className="text-xl text-cyan-400 lg:text-2xl">Simona</h3>
+                                <p className="text-black text-s">Colores Personalizables</p>
                             </div>
                         </a>
                     </article>
@@ -98,26 +98,7 @@ function AboutSamples() {
 
             </div>
 
-            <a
-                href="https://github.com/Laria-Mateo"
-                target="_blank"
-                rel="noopener"
-                className="flex flex-row text-black hover:text-cyan-400 dark:text-white dark:hover:text-cyan-400"
-                aria-label="link to repository"
-            >
-                Ver mas Diseños
-                <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-
-                    className="ml-1 h-6 w-6"
-                >
-                    <path
-
-                        d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"></path>
-                </svg>
-            </a>
+            
 
         </section>
 
